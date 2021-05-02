@@ -1,5 +1,6 @@
 {
   "name": "robofriends",
+  "homepage": "http://abdoessordo.github.io/robofreinds-React-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +41,4 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/abdoessordo/Robofriends--1st-React-app"
 }
